@@ -7,19 +7,13 @@
   - log_train is result that i carried out!
  
 # Using tool(gits that I cloned)
-  '''
-  !git clone https://github.com/Belval/TextRecognitionDataGenerator.git
-  '''
+1. !git clone https://github.com/Belval/TextRecognitionDataGenerator.git
   - To make Train dataset
 
-  '''
-  !git clone https://github.com/DaveLogs/TRDG2DTRB.git
-  '''
+2. !git clone https://github.com/DaveLogs/TRDG2DTRB.git
   - A code to make god damm 'gt.txt' file(You will find out lol)
 
-  '''
-  !git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
-  '''
+3. !git clone https://github.com/clovaai/deep-text-recognition-benchmark.git
   - EasyOCR
 
 # References
